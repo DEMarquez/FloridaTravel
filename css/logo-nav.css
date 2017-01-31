@@ -1,0 +1,167 @@
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}
+
+.lista{
+    margin-left: 15px;
+}
+
+.perfil{
+    margin-left: 475px;
+}
+
+#barraNav{
+    height: 80px;
+}
+
+#oferta{
+    margin-left: 5%;
+    margin-bottom: 2%;
+    color: #ff9900;
+}
+
+/*logo florida travel*/
+#logo{
+   width:150px;
+   height:80px;
+   float: left;
+   margin-bottom: 20px;
+}
+
+
+/* CUSTOMIZE THE FOOTER
+    -------------------------------------------------- */
+.redes{
+width:50px;
+height:50px;
+}
+
+li{
+  list-style: none;
+}
+
+.soporte{
+  color:white;
+  background-color:#222;
+  border: none;
+}
+
+.informacion{
+  color:white;
+  margin-left: 25px;
+  margin-top: 10px;
+  float: right;
+}
+
+.titulo{
+  margin-left: 40px;
+  color: #ff9900;
+}
+
+.privado{
+  color:white;
+  margin-left:15px;
+  background-color:#222;
+}
+
+table{margin-left: 10%;}
+
+footer{
+max-width: 100%;
+max-height: 50%;
+background-color:#222;
+border-top:1px solid #080808;
+margin-top: 5%;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+    -------------------------------------------------- */
+
+    /* Carousel base class */
+    .carousel {
+      margin-bottom: 60px;
+    }
+
+    .carousel .container {
+      position: relative;
+      z-index: 9;
+    }
+
+    .carousel-control {
+      height: 80px;
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+      background-color: transparent;
+      border: 0;
+      z-index: 10;
+    }
+
+    .carousel .item {
+      height: 430px;
+    }
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 34px;
+      min-width: 95%;
+      height: 650px;
+    }
+
+    .carousel-caption {
+      background-color: transparent;
+      position: static;
+      max-width: 550px;
+      padding: 0 20px;
+      margin-top: 200px;
+    }
+    .carousel-caption h1,
+    .carousel-caption .lead {
+      margin: 0;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+    }
+    .carousel-caption .btn {
+      margin-top: 10px;
+    }
+
+    a[name="left"]{
+      margin-left: 35px;
+    }
+
+    a[name="right"]{
+      margin-right: 35px;
+    }
+
+    #myCarousel{
+      margin-bottom: 30px;
+    }
+
+
+  /*MENU DESPLEGABLE PRUEBA*/
